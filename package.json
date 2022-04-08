@@ -1,0 +1,26 @@
+{
+  "name": "eth-balance-checker",
+  "version": "1.0.0",
+  "description": "Check the balance of any Eth address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theyworker/ETH-balance-checker.git"
+  },
+  "keywords": [
+    "ether",
+    "blockchain"
+  ],
+  "author": "Devaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theyworker/ETH-balance-checker/issues"
+  },
+  "homepage": "https://github.com/theyworker/ETH-balance-checker#readme",
+  "dependencies": {
+    "ethers": "^5.6.2"
+  }
+}
